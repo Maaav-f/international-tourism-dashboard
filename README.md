@@ -1,7 +1,7 @@
 # Dashboard sul turismo internazionale
 
 ## Description
-Dashboard interattiva creata con PowerBI, che analizza i dati sul turismo internazionale di UN Tourism  
+Dashboard interattiva creata con PowerBI, che analizza i dati sul turismo internazionale di UN Tourism.  
 Link ai dataset: https://www.untourism.int/tourism-statistics/tourism-statistics-database  
 
 La dashboard è stata realizzata come progetto di gruppo finale per il corso di Junior Data Engineer realizzato da Generation Italy e pensata per essere presentata al corpo docente e manageriale dell'orhanizzazione. Sono stati studiati trend numerici ed economici, dal 1995 al 2021.  
